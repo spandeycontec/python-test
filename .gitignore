@@ -1,0 +1,6 @@
+.venv
+dist
+output
+files
+.vscode
+csv
